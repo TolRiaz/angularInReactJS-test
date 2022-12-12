@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Build
 
-Run `npm run build` to build the project to react library. The build artifacts will be stored to the react project `public/` directory.
+Run `npm run build` to build the project to react library. The build library will be stored to the react project `public/` directory.
