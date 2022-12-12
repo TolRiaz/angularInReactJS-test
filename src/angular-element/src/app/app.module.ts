@@ -21,7 +21,7 @@ const LIBRARY_LIST = [
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent],
+  bootstrap: [],
   entryComponents: LIBRARY_LIST,
 })
 // export class AppModule { }
